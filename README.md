@@ -1,10 +1,9 @@
 <h2 align="left">Hi 👋! My name is Paul Binu and I'm a Data Science Student studying @Mar Athanasius College of Engineering.</h2>
 
 ###
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulbinu04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 📊 Most Used Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulbinu04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
